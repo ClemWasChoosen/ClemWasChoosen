@@ -7,7 +7,7 @@ My first goal is to become a Creative Web developer, so, I do everyting I can to
 
 ```javascript
 const clement = {
-    preferencies: ["Coding 'til goals achieved", "Working at night", "Light Mode"],
+    preferencies: ["Coding 'til goals achieved", "Working at night", "Remote work", "Light Mode"],
     aboutMe: ["Creative Web development", "React 💖", "app dev"],
     code: ["Javascript", "Html", "Css", "C", "VBA", "Everything new that I can learn"],
     technologies: {
