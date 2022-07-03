@@ -1,7 +1,7 @@
 # Hello there 🖐
 
-I'm Clément, a french student in 2nd years of "Licence Informatique" based in Nancy (equivalent to BSc Computer Science).
-My first goal is to become a Creative Web developer, so, I do everyting I can to achieve this. 
+I'm Clément, a French student in 2nd years of "Licence Informatique" based in Nancy (equivalent to BSc Computer Science).
+My first goal is to become a Creative Web developer, so, I do everything I can to achieve this. 
 
 ## Some data about me 
 
@@ -23,12 +23,12 @@ const clement = {
         databases: ["PostGreSql"]
     },
     currentFocus: "Web page for my sister creation",
-    funFact: "I started coding when I saw a foo walks inside my favorite bar, looks around and sayed: Hello World"
+    funFact: "I started coding when I saw a foo walks in my favorite bar, looks around and said: Hello World"
 };
 ```
 
-Working alone on a project implies to learn graphism (Figma, Adobe XD), sofware development thinking (UML, draft paper, Notion, Skiff, ...) 👾
+Working alone on a project implies to learn graphism (Figma, Adobe XD), software development thinking (UML, draft paper, Notion, Skiff, ...) 👾
 
-I just love create things, learn and become better. For any kind of question, don't be shy, DM me 🧛‍♀️
+I just love creating things, learn and become better. For any kind of question, don't be shy, DM me 🧛‍♀️
 
 
