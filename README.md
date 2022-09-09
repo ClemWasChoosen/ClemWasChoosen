@@ -1,6 +1,6 @@
 # Hello there 🖐
 
-I'm Clément, a French student in 2nd years of "Licence Informatique" based in Nancy (equivalent to BSc Computer Science).
+I'm Clément, a French student in 3rd years of "Licence Informatique" based in Strasbourg (equivalent to BSc Computer Science).
 My first goal is to become a Creative Web developer, so, I do everything I can to achieve this. 
 
 ## Some data about me 
@@ -11,7 +11,7 @@ const clement = {
     aboutMe: ["Creative Web development", "React 💖", "app dev"],
     code: ["Javascript", "Html", "Css", "C", "VBA", "Everything new that I can learn"],
     technologies: {
-        frontEndLibrary: {
+        frontEnd: {
             js: ["Gsap", "React", "Three.js", "LocomotiveJs"]
         },
         backEnd: {
@@ -23,7 +23,7 @@ const clement = {
         databases: ["PostGreSql"]
     },
     currentFocus: "Web page for my sister creation",
-    funFact: "I started coding when I saw a foo walks in my favorite bar, looks around and said: Hello World"
+    funFact: "I started coding when I saw a foo walks in my favorite bar, looks around and bark: Hello World"
 };
 ```
 
