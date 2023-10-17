@@ -11,9 +11,8 @@ const clement = {
     aboutMe: ["Enthusiastic data science master's student", "Passionate about artificial intelligence", "Proficient in Python, C, JavaScript, and more"],
     code: ["Python", "C", "Javascript", "Web Langages", "VBA", "Vim", "Always eager to learn new technologies"],
     education: {
-        bachelor: "Baccalauréat Scientifique, 2019",
+        bachelor: "Computer Science",
         bachelorLocation: "Strasbourg, France",
-        bachelorMajor: "Science",
         bachelorThesis: "Completed a Bachelor's degree with a focus on computer science.",
         master: "Data Science and Machine Learning",
         masterLocation: "Strasbourg university",
@@ -38,6 +37,7 @@ const clement = {
 ```
 
 Working alone on a project entails self-learning 👾.
+
 I simply love crafting, learning, and getting better. Feel free to reach out with any questions; I don't bite 🧛‍♀️.
 
 
