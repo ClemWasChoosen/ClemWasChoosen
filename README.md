@@ -1,34 +1,43 @@
 # Hello there 🖐
 
-I'm Clément, a French student in 3rd years of "Licence Informatique" based in Strasbourg (equivalent to BSc Computer Science).
-My first goal is to become a Creative Web developer, so, I do everything I can to achieve this. 
+I'm Clément, a French student in 1 year of a Master degree based in Strasbourg.
+My first goal is to become a Data Scientist, so, I do everything I can to achieve this. 
 
 ## Some data about me 
 
 ```javascript
 const clement = {
     preferencies: ["Coding 'til goals achieved", "Working at night", "Remote work", "Light Mode"],
-    aboutMe: ["Creative Web development", "React 💖", "app dev"],
-    code: ["Javascript", "Html", "Css", "C", "VBA", "Everything new that I can learn"],
-    technologies: {
-        frontEnd: {
-            js: ["Gsap", "React", "Three.js", "LocomotiveJs"]
-        },
-        backEnd: {
-            js: ["Node", "Express"]
-        },
-        mobileApp: {
-            native: ["React Native"]
-        },
-        databases: ["PostGreSql"]
+    aboutMe: ["Enthusiastic data science master's student", "Passionate about artificial intelligence", "Proficient in Python, C, JavaScript, and more"],
+    code: ["Python", "C", "Javascript", "Web Langages", "VBA", "Vim", "Always eager to learn new technologies"],
+    education: {
+        bachelor: "Baccalauréat Scientifique, 2019",
+        bachelorLocation: "Strasbourg, France",
+        bachelorMajor: "Science",
+        bachelorThesis: "Completed a Bachelor's degree with a focus on computer science.",
+        master: "Data Science and Machine Learning",
+        masterLocation: "Strasbourg university",
+        masterStatus: "Currently pursuing a Master's 1 year degree in Data Science and Machine Learning.",
     },
-    currentFocus: "Web page for my sister creation",
-    funFact: "I started coding when I saw a foo walks in my favorite bar, looks around and bark: Hello World"
+    technologies: {
+        dataScience: {
+            languages: ["Python"],
+            frameworks: ["TensorFlow", "PyTorch"],
+            tools: ["Jupyter Notebook", "Pandas", "NumPy", "Matplotlib"],
+            concepts: ["Machine Learning", "Deep Learning", "Natural Language Processing"]
+        },
+        tools: {
+            languages: ["Vim", "tmux", "Obsidian", "etc..."],
+            concepts: ["Advanced Text Editing, terminal and other"]
+        }
+    },
+    currentFocus: "Working on a projet of machine learning for my school",
+    funFact: "I started my coding journey after witnessing a dog enter my favorite bar, look around, and 'bark': Hello World."
 };
+
 ```
 
-Working alone on a project implies to learn graphism (Figma, Adobe XD), software development thinking (UML, draft paper, Notion, Skiff, ...) 👾
-
-I just love creating things, learn and become better. For any kind of question, don't be shy, DM me 🧛‍♀️
+Working alone on a project entails self-learning 👾.
+I simply love crafting, learning, and getting better. Feel free to reach out with any questions; I don't bite 🧛‍♀️.
 
 
