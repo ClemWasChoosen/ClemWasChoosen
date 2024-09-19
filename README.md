@@ -1,6 +1,6 @@
 # Hello there 🖐
 
-I'm Clément, a French student in 1 year of a Master degree based in Strasbourg.
+I'm Clément, a French student in 2nd year of a Master degree based in Strasbourg.
 My first goal is to become a Data Scientist, so, I do everything I can to achieve this. 
 
 ## Some data about me 
